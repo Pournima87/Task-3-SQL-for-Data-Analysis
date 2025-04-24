@@ -9,7 +9,7 @@ Perform data analysis using SQL queries on an Ecommerce Demo Database. Extract i
 
 ## 📁 Dataset
 The database was imported using a pre-built SQL dump:
-- [ecommerce_demo.sql](#) (imported locally using MySQL CLI)
+- [ecommerce_demo.sql] (imported locally using MySQL CLI)
 
 ## 📜 SQL Concepts Applied
 - `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`
