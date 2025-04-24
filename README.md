@@ -33,6 +33,8 @@ The database was imported using a pre-built SQL dump:
 ## 📎 Deliverables
 - `task3_sql_analysis.sql` with all queries and logic
 -  `Task3-Documentation` Screenshots of query outputs
+-  `ecommerce_demo.sql` Dataset
+
 
 ## 💡 Outcomes
 - Improved SQL query-building and optimization
